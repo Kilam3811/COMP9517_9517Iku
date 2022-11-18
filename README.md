@@ -51,7 +51,7 @@ To run the inference, please run the following in the notebook,
 Once the inferencing is finished, look for lines like **Results saved to [path]**, this is the folder where the inferenced result will be saved into.
 
 ## Note:
-Since YOLOv5 has performed better than SVM, there will no instructions on how to use SVM, but we have provided the source code and experiments along the develoment for your information.
+Since YOLOv5 has performed better than SVM, there will be no instructions on how to use SVM, but we have provided the source code and experiments along the develoment for your information.
 
 If you would like calculate average F2 score, please use /YOLOv5/F2_score.ipynb together with train.csv for calcualtion.
 
