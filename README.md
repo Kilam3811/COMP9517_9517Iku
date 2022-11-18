@@ -10,7 +10,6 @@ We have provided two approaches to adjust the COTS problem which are **YOLOv5** 
 Please make sure you download/git-clone the latest version of [YOLOv5](https://github.com/ultralytics/yolov5) :smiley:
 
 Do
-e.g.,
 ```shell
     !git clone https://github.com/ultralytics/yolov5.git
 ```
