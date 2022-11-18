@@ -53,6 +53,6 @@ Once the inferencing is finished, look for lines like **Results saved to [path]*
 ## Note:
 Since YOLOv5 has performed better than SVM, there will be no instructions on how to use SVM, but we have provided the source code and experiments along the develoment for your information.
 
-If you would like calculate average F2 score, please use /YOLOv5/F2_score.ipynb together with train.csv for calcualtion.
+If you would like to calculate average F2 score, please use /YOLOv5/F2_score.ipynb together with train.csv for calcualtion.
 
  Thank you :)
