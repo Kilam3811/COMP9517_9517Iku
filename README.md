@@ -9,6 +9,13 @@ We have provided two approaches to adjust the COTS problem which are **YOLOv5** 
 ### Step 0
 Please make sure you download/git-clone the latest version of [YOLOv5](https://github.com/ultralytics/yolov5) :smiley:
 
+Do
+e.g.,
+```shell
+    !git clone https://github.com/ultralytics/yolov5.git
+```
+in the current diretory.
+
 ### Step 1
 Unzip the "Source code.zip", you will get two folders "hog+svm" and "YOLOv5", we choose the latter.
 
@@ -45,4 +52,8 @@ To run the inference, please run the following in the notebook,
 Once the inferencing is finished, look for lines like **Results saved to [path]**, this is the folder where the inferenced result will be saved into.
 
 ## Note:
-Since YOLOv5 has performed better than SVM, there will no instructions on how to use SVM, but we have provided the source code and experiments along the develoment for your information. Thank you :)
+Since YOLOv5 has performed better than SVM, there will no instructions on how to use SVM, but we have provided the source code and experiments along the develoment for your information.
+
+If you would like calculate average F2 score, please use /YOLOv5/F2_score.ipynb together with train.csv for calcualtion.
+
+ Thank you :)
