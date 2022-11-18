@@ -42,7 +42,7 @@ display = utils.notebook_init()
 ```
 
 ### Step5
-There is no need to train the images again, unless you have custome dataset. We have provided the trained model [best.pt](YOLOv5\best.pt) in the submission. 
+There is no need to train the model again, unless you have custome dataset. We have provided the trained model [best.pt](YOLOv5/best.pt) in the submission. 
 
 To run the inference, please run the following in the notebook,
 ```bash
